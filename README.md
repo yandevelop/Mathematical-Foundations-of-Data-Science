@@ -1,7 +1,7 @@
 # Mathematical Foundations of Data Science
 This repository contains course materials and notes for "Mathematical Foundations of Data Science" focusing on supervised and unsupervised learning techniques, based on the university course.
 
-[Online Version Available](https://yandevelop.github.io/mfds/)
+[Online Version Available](https://yandevelop.github.io/mfds/)<br>
 [PDF Version](https://github.com/yandevelop/Mathematical-Foundations-of-Data-Science/blob/main/Mathematical-Foundations-of-Data-Science-Complete.pdf)
 
 ### 📚 Course Contents
